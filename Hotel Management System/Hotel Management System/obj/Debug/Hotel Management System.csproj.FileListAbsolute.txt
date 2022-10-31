@@ -8,3 +8,17 @@ F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\De
 F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
 F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
 F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\bin\Debug\mk-MK\Hotel Management System.resources.dll
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Login.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Main.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Register.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Login.mk-MK.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\mk-MK\Hotel Management System.resources.dll
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.ChangePassword.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.ConfirmCode.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.CustomControls.RJTextBox.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.panelRooms.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.panelGuests.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.panelBookings.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.panelCheckout.resources
+F:\Hotel Managment System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.panelDashboard.resources
