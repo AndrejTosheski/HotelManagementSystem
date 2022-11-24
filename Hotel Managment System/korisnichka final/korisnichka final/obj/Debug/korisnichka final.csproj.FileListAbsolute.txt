@@ -1,0 +1,23 @@
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\bin\Debug\korisnichka final.exe.config
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\bin\Debug\korisnichka final.exe
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\bin\Debug\korisnichka final.pdb
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka_final.Form1.resources
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka_final.Properties.Resources.resources
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka final.exe
+C:\Users\Acer\Desktop\mikrosam privremeno\korisnichka final\korisnichka final\obj\Debug\korisnichka final.pdb
+F:\Hotel Managment System\korisnichka final\korisnichka final\bin\Debug\korisnichka final.exe.config
+F:\Hotel Managment System\korisnichka final\korisnichka final\bin\Debug\korisnichka final.exe
+F:\Hotel Managment System\korisnichka final\korisnichka final\bin\Debug\korisnichka final.pdb
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.AssemblyReference.cache
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.SuggestedBindingRedirects.cache
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka_final.Form1.resources
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka_final.Properties.Resources.resources
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.GenerateResource.cache
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka final.csproj.CoreCompileInputs.cache
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka final.exe
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka final.pdb
+F:\Hotel Managment System\korisnichka final\korisnichka final\obj\Debug\korisnichka_final.RJTextBox.resources
